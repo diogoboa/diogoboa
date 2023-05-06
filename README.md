@@ -1,6 +1,7 @@
-Seja bem-vindo!
+Olá! Sou um desenvolvedor full-stack com vasta experiência em desenvolvimento de software, desde o planejamento até a implementação e manutenção. Meu conhecimento em tecnologias como Java, Spring Framework, JavaScript, AngularJS, Bootstrap, Datatable e ChartJS, me permite trabalhar de forma ágil e eficiente na entrega de soluções de qualidade para clientes.
 
-Sou um amante da programação e estou em busca de oportunidades.
+Sou graduado em Ciência da Computação pela Universidade Federal do Mato Grosso do Sul e tenho ampla experiência como professor em diversas instituições, incluindo a Universidade Federal de Mato Grosso do Sul, a escola técnica ETEC de Ilha Solteira e o projeto Mercury Renew.
 
-Esse é meu curriculo lattes:
-http://lattes.cnpq.br/3858624277890555
+Atualmente, sou proprietário e desenvolvedor na empresa Boaventura Desenvolvimento de Softwares, especializada em soluções de tecnologia da informação. Atuo com as tecnologias Java, Spring Framework, JavaScript, AngularJS, Bootstrap, Datatable e ChartJS, desenvolvendo aplicações robustas para clientes em diversas áreas de atuação. Com mais de 6 anos de experiência na área, possuo habilidades em análise de requisitos, arquitetura de software, desenvolvimento de sistemas, gerenciamento de projetos, testes e implantação de soluções.
+
+Meu objetivo é contribuir com o desenvolvimento do mercado de tecnologia, buscando constantemente atualização e aprendizado na área. Com a minha vasta experiência e habilidades em desenvolvimento de software, estou preparado para enfrentar novos desafios e oferecer soluções inovadoras e eficientes aos clientes. Se você está em busca de um desenvolvedor full-stack confiável e experiente, sinta-se à vontade para entrar em contato comigo!
