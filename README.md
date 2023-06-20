@@ -1,4 +1,4 @@
-Olá! Sou um desenvolvedor full-stack com vasta experiência em desenvolvimento de software, desde o planejamento até a implementação e manutenção. Meu conhecimento em tecnologias como Java, Spring Framework, JavaScript, AngularJS, Bootstrap, Datatable e ChartJS, me permite trabalhar de forma ágil e eficiente na entrega de soluções de qualidade para clientes.
+Olá! Sou um desenvolvedor full-stack com experiência em desenvolvimento de software, desde o planejamento até a implementação e manutenção. Meu conhecimento em tecnologias como Java, Spring Framework, JavaScript, AngularJS, Bootstrap, Datatable e ChartJS, me permite trabalhar de forma ágil e eficiente na entrega de soluções de qualidade para clientes.
 
 Sou graduado em Ciência da Computação pela Universidade Federal do Mato Grosso do Sul e tenho ampla experiência como professor em diversas instituições, incluindo a Universidade Federal de Mato Grosso do Sul, a escola técnica ETEC de Ilha Solteira e o projeto Mercury Renew.
 
